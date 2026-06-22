@@ -1,2 +1,33 @@
-# DSA-Journey
-Data Structures &amp; Algorithms journey featuring Striver A2Z, Codeforces, LeetCode solutions, notes, and problem-solving logs.
+# DSA Journey
+
+My complete Data Structures & Algorithms preparation journey.
+
+## Resources
+
+- Striver A2Z Sheet
+- Codeforces
+- Leetcode
+- DSA with Python
+
+## Topics Covered
+
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Graphs
+- Dynamic Programming
+
+
+## Repository Structure
+
+Theory/
+Problems/
+Notes/
+Logs/
+
+## Goal
+
+Become interview-ready and reach strong competitive programming level.
